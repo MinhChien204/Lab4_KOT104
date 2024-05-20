@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "learn.fpoly.lab4"
-        minSdk = 33
+        minSdk = 30
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
